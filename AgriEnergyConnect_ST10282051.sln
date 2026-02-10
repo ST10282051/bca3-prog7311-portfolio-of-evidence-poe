@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriEnergyConnect_ST10282051", "AgriEnergyConnect_ST10282051\AgriEnergyConnect_ST10282051.csproj", "{33D531A9-2EB1-4F3B-A7D6-AC4F54ED6DC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriEnergyConnect.Tests", "..\..\AgriEnergyConnect.Tests\AgriEnergyConnect.Tests.csproj", "{C5BECE02-7E4F-0907-42B0-4BF3CB77A1F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D531A9-2EB1-4F3B-A7D6-AC4F54ED6DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D531A9-2EB1-4F3B-A7D6-AC4F54ED6DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D531A9-2EB1-4F3B-A7D6-AC4F54ED6DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D531A9-2EB1-4F3B-A7D6-AC4F54ED6DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BECE02-7E4F-0907-42B0-4BF3CB77A1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BECE02-7E4F-0907-42B0-4BF3CB77A1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BECE02-7E4F-0907-42B0-4BF3CB77A1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BECE02-7E4F-0907-42B0-4BF3CB77A1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {891AE7B3-C81A-4B22-8E2F-E025C370C366}
+	EndGlobalSection
+EndGlobal
